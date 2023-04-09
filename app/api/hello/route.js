@@ -1,3 +1,4 @@
-export async function GET(request) {
+export async function GET(req) {
   return new Response('Hello, Next.js!')
 }
+
